@@ -20,5 +20,8 @@
   "homepage": "https://github.com/jcsryan/zookeepr#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "10.x"
   }
 }
